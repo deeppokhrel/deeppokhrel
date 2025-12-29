@@ -38,4 +38,4 @@ I love turning ideas into reliable, production-ready products — especially in 
 
 ## 🤝 Let’s Connect
 - 📧 Email: dippokhrel@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 💼 LinkedIn: https://www.linkedin.com/in/dip-pokhrel-a1056475/
