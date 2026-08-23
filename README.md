@@ -66,13 +66,13 @@ Technical Mentoring · Code Reviews · Incident Management · Cost Optimization
 
 ## 💼 Professional Experience
 
-### Senior Software Engineer (Backend) — Hype Athlete
+### Senior Software Engineer | AI Engineer — Hype Athlete
 
 _May 2025 – May 2026 · Kathmandu, Nepal (Remote)_
 `Ruby on Rails` `React` `OpenAI` `Claude` `n8n` `pgvector` `FastAPI` `OAuth2/JWT` `Redis` `Sidekiq` `Rspec`
 
 - Designed AI-powered survey processing workflows using OpenAI + n8n to generate automated recommendations and Slack-based reporting
-- Built semantic content discovery using pg-vector embeddings and transcript-based AI tagging for natural language content search
+- Built semantic content discovery using pg-vector embeddings **(RAG)** and transcript-based AI tagging for natural language content search
 - Integrated Google Analytics with Claude AI through a custom **MCP server** for conversational analytics querying using **FastAPI (OAuth2/JWT)**
 - Collaborated with product and design teams to deliver responsive web experiences across desktop and mobile devices
 - Implemented automated database backup and recovery procedures, reducing potential data loss
@@ -91,6 +91,7 @@ _May 2024 – Jan 2025 · San Mateo, CA (Remote from Nepal)_
 - Integrated Google Maps and solar irradiance APIs — accelerated site survey completion by **30%** through optimized marker clustering
 - Documented system architecture and runbooks — reduced new engineer onboarding time from **3 weeks to 5 days**
 - Maintained high **Rspec** test coverage across applications to ensure code quality
+- Built an automated scraper using **Node jS** and Selenium
 
 ---
 
