@@ -150,6 +150,10 @@ _May 2014 – Mar 2016 · Kathmandu, Nepal_
 | Fraud detection system            | $50k/month in prevented fraudulent activity       |
 | Large-scale database migrations   | Near-zero downtime · minimal production impact    |
 | AI-powered workflow design        | Improved content discovery, analytics accessibility, and operational efficiency |
+| Automated pull request Reviewer Agent | Reviews for accelerated development |
+| Accelerating Error Diagnostics via Automated Log Analysis | Fast Discovery of errors in system |
+
+
 
 ---
 
