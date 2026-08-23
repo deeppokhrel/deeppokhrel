@@ -1,6 +1,6 @@
 # DIP POKHREL
 
-## Senior Full Stack Engineer
+## Senior Full Stack Engineer | AI Engineer
 
 📍 Kathmandu, Nepal · Available for Remote US Time Zones
 📱 +977-9843573311
