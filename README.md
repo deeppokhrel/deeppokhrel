@@ -23,7 +23,7 @@ Experienced in designing distributed backend systems using **Ruby on Rails**, **
 - AI-Powered Workflow Design (OpenAI, Claude, MCP, pgvector, n8n, Langchain, RAG)
 - Microservices & Event-Driven Architecture (AWS Lambda, SQS, SNS)
 - Auth & Identity (SSO / Auth0, OAuth2/JWT)
-- Cloud Infrastructure & Cost Optimization (AWS ECS/EC2/S3, Docker, Terraform)
+- Cloud Infrastructure & Cost Optimization (AWS ECS/EC2/S3/Athena, Docker, Terraform)
 - Database Design & Migration (PostgreSQL, DynamoDB, Bucardo, Heroku RDS → AWS RDS)
 - CI/CD Pipeline Design (GitHub Actions)
 - Test Coverage & Code Quality (Rspec)
@@ -36,11 +36,11 @@ Experienced in designing distributed backend systems using **Ruby on Rails**, **
 
 ### Languages & Frameworks
 
-Ruby on Rails · Node.js · Python · React · Go
+Ruby on Rails · Node.js · Python · React · Go · Typescript
 
 ### Cloud & DevOps
 
-AWS (Lambda, ECS, RDS, SQS, SNS, EC2, S3) · Docker · Terraform
+AWS (Lambda, ECS, RDS, SQS, SNS, EC2, S3, Athena) · Docker · Terraform
 
 ### Databases & Caching
 
@@ -100,7 +100,7 @@ _May 2024 – Jan 2025 · San Mateo, CA (Remote from Nepal)_
 _Feb 2023 – May 2024 · Seattle, WA (Remote from Nepal)_
 `React` `Ruby on Rails` `Flask` `AWS ECS` `Docker` `Bucardo` `GitHub Actions` `Rspec`
 
-- Developed and maintained a React-based web application, delivering scalable and responsive user experiences across core platform workflows
+- Developed and maintained React & React-Native applications using TypeScript and Zustand, Implementing centralized state management for shared application data and improving maintainability across the system.
 - Built and maintained Ruby on Rails APIs supporting business-critical functionality and multiple third-party integrations
 - Architected and implemented integrations with external services, expanding platform capabilities and improving operational efficiency
 - Led migration of production databases from **Heroku RDS to AWS RDS** using Bucardo, ensuring data integrity with minimal service disruption
@@ -127,6 +127,7 @@ _Mar 2016 – Jan 2023 · Seattle, WA (Remote from Nepal)_
 - Developed serverless services using **Node.js** and **AWS Lambda**
 - Collaborated closely with designers and product managers to deliver responsive web experiences across multiple insurance products
 - Participated in full-stack feature development from database design through frontend implementation
+- Used AWS Athena to implement a business insights dashboard with large-scale customer policy data stored in AWS S3.
 
 ---
 
